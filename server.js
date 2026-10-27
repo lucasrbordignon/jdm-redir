@@ -1,7 +1,7 @@
 const http = require("http");
 
 // Defina o ID do pixel na variável de ambiente PIXEL_ID (ou troque aqui)
-const PIXEL_ID = process.env.PIXEL_ID || "SEU_PIXEL_ID";
+const PIXEL_ID = process.env.PIXEL_ID || "1333531238811803";
 
 const links = [
   "https://api.whatsapp.com/send?phone=556291276662&text=Ol%C3%A1%20Jordana!%20Tenho%20interesse%20em%20adquirir%20meu%20primeiro%20im%C3%B3vel!&",
